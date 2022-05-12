@@ -1,7 +1,7 @@
 /*-----------------------------------------------------------------------------------
 
-    Theme Name: Techno - IT Solutions & Technology Template
-    Description: IT Solutions & Technology Template
+    Theme Name: RR Softsol - IT Solutions & Technology Company
+    Description: RR Softsol - IT Solutions & Technology Company
     Author: Chitrakoot Web
     Version: 1.0
 

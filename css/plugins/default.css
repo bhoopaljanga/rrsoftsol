@@ -1,7 +1,7 @@
 /*-----------------------------------------------------------------------------------
 
-    Theme Name: Techno - IT Solutions & Technology Template
-    Description: IT Solutions & Technology Template
+    Theme Name: RR Softsol - IT Solutions & Technology Company
+    Description: RR Softsol - IT Solutions & Technology Company
     Author: Chitrakoot Web
     Version: 1.0
 
@@ -175,7 +175,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, .h1 a, .h2 a, .h3 a, .h4 a, .h5 a, .h6 a {  
     Custom
 ====================================== */
 
-section { padding: 120px 0; overflow: hidden; background: #fff; position: relative;}
+section { padding: 60px 0; overflow: hidden; background: #fff; position: relative;}
 section.md { padding: 90px 0; }
 
 .big-input, .big-textarea, .big-select select { padding: 18px 25px; font-size: 14px; border-radius: 0;}
