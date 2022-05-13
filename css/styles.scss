@@ -2937,7 +2937,13 @@ a {
   background: unset;
 
   .team-image {
+    width: 400px;
+    height: 400px;
     padding: 0 20px;
+    img{
+      width: 400px;
+      height: 400px;
+    }
   }
 
   &:after {

@@ -2008,7 +2008,13 @@ a:hover, a:active, a:focus {
   border-radius: 0;
   background: unset; }
   .card-style12 .team-image {
-    padding: 0 20px; }
+    padding: 0 20px;
+     
+   }
+   .card-style12 .team-image img {
+     width: 400px;
+    height: 400px;
+   }
   .card-style12:after {
     position: absolute;
     left: 0;
